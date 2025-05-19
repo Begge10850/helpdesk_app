@@ -23,7 +23,9 @@ An AI-powered IT helpdesk assistant built using Python and Streamlit. Designed w
 
 ---
 
-## 🛠️ How to Use
+## 🛠️ Announcement
+
+- The appliaction is still in production. It is not yet functional.
 
 ### 1. Install Streamlit
 ```bash
